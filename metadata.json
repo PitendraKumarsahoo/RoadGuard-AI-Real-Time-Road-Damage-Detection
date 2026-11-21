@@ -1,0 +1,6 @@
+{
+  "name": "RoadGuard AI – Real-Time Road Damage Detection",
+  "description": "Mobile-first road damage detection prototype with live rear camera scanning, bounding box overlays, GPS logging, and Leaflet mapping.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
